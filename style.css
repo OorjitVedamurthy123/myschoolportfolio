@@ -1,0 +1,21 @@
+
+h1 {
+    color:orange;  
+    border:solid;
+  }
+  
+ .header{
+    justify-content:space-evenly;
+ }
+ 
+ 
+ .header2{
+
+    justify-content:space-evenly; 
+ }
+ p{
+   color:yellow
+ }
+ body{
+   background-image: url("pictures/galaxy.PNG");
+ }
